@@ -1,0 +1,15 @@
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\bin\Debug\net8.0\HalloWelt.exe
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\bin\Debug\net8.0\HalloWelt.deps.json
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\bin\Debug\net8.0\HalloWelt.runtimeconfig.json
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\bin\Debug\net8.0\HalloWelt.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\bin\Debug\net8.0\HalloWelt.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.AssemblyInfoInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.AssemblyInfo.cs
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.csproj.CoreCompileInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.sourcelink.json
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\refint\HalloWelt.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\HalloWelt.genruntimeconfig.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\1_Start\01_01_HalloWelt\obj\Debug\net8.0\ref\HalloWelt.dll

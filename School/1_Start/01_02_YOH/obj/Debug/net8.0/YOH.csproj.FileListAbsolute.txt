@@ -1,0 +1,15 @@
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\bin\Debug\net8.0\YOH.exe
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\bin\Debug\net8.0\YOH.deps.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\bin\Debug\net8.0\YOH.runtimeconfig.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\bin\Debug\net8.0\YOH.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\bin\Debug\net8.0\YOH.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.AssemblyInfoInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.AssemblyInfo.cs
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.csproj.CoreCompileInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.sourcelink.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\refint\YOH.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\YOH.genruntimeconfig.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_02_YOH\obj\Debug\net8.0\ref\YOH.dll

@@ -1,0 +1,15 @@
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\bin\Debug\net8.0\Sanduhr.exe
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\bin\Debug\net8.0\Sanduhr.deps.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\bin\Debug\net8.0\Sanduhr.runtimeconfig.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\bin\Debug\net8.0\Sanduhr.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\bin\Debug\net8.0\Sanduhr.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.AssemblyInfoInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.AssemblyInfo.cs
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.csproj.CoreCompileInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.sourcelink.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\refint\Sanduhr.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\Sanduhr.genruntimeconfig.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\1_Start\01_03_Sanduhr\obj\Debug\net8.0\ref\Sanduhr.dll
