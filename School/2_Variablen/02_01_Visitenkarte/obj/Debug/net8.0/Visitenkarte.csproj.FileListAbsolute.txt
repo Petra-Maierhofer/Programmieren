@@ -1,0 +1,15 @@
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\bin\Debug\net8.0\Visitenkarte.exe
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\bin\Debug\net8.0\Visitenkarte.deps.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\bin\Debug\net8.0\Visitenkarte.runtimeconfig.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\bin\Debug\net8.0\Visitenkarte.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\bin\Debug\net8.0\Visitenkarte.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.AssemblyInfoInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.AssemblyInfo.cs
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.csproj.CoreCompileInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.sourcelink.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\refint\Visitenkarte.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\Visitenkarte.genruntimeconfig.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_01_Visitenkarte\obj\Debug\net8.0\ref\Visitenkarte.dll

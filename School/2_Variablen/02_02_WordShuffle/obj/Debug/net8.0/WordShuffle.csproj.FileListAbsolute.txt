@@ -1,0 +1,15 @@
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\bin\Debug\net8.0\WordShuffle.exe
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\bin\Debug\net8.0\WordShuffle.deps.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\bin\Debug\net8.0\WordShuffle.runtimeconfig.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\bin\Debug\net8.0\WordShuffle.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\bin\Debug\net8.0\WordShuffle.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.AssemblyInfoInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.AssemblyInfo.cs
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.csproj.CoreCompileInputs.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.sourcelink.json
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\refint\WordShuffle.dll
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.pdb
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\WordShuffle.genruntimeconfig.cache
+C:\Users\maier\Desktop\GitHub\Programmieren\School\2_Variablen\02_02_WordShuffle\obj\Debug\net8.0\ref\WordShuffle.dll
